@@ -1,8 +1,3 @@
-#reminding myself the all ways to conctinating p.s spelling are completely wrong but who cares ;(
-#youtuber = 'Ahmed Mamdouh Mattar'
-#print('subscribe to '+ youtuber)
-#print('subscribe to {}'.format(youtuber))
-#print(f'subscribe to {youtuber}')
 import random
 
 def guss(x):
